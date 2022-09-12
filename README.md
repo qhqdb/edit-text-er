@@ -9,4 +9,4 @@ Run `npm i` to install dependencies.
 The run `npm start`.
 
 ## Deployed App
-
+https://edit-text-er.herokuapp.com
